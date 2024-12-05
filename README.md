@@ -1,4 +1,6 @@
 # Dynamic Friend Search Application
+<img width="733" alt="image" src="https://github.com/user-attachments/assets/5af4ad3c-cae4-4ec5-9499-fcb4d946cf0e">
+<img width="733" alt="image" src="https://github.com/user-attachments/assets/6283ed9c-6d04-49b1-b2c0-424f7c78eed6">
 
 ## Overview
 
